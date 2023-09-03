@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="placeholderA">Ingrese el primer texto</string>
+    <string name="placeholderB">Ingrese el segundo texto</string>
+    <string name="compare">Comparar</string>
+    <string name="compareOk">Los textos son iguales</string>
+    <string name="compareFail">Los textos son diferentes</string>
+</resources>
